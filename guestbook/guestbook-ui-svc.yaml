@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: guestbook-ui
   labels:
-  - arik: derez
+    arik: derez
 spec:
   ports:
   - port: 81
